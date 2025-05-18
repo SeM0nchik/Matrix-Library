@@ -1,3 +1,4 @@
+# Matrix-Library
 A lightweight, header-only C++ template library for matrix operations. Supports basic arithmetic, transposition, determinants, inverses, and more for fixed-size matrices.
 
 ## Features
