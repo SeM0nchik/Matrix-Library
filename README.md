@@ -57,10 +57,8 @@ int main() {
 - `include/matrix/`: Header files for the library.
   - `exceptions.hpp`: Custom exception classes.
   - `matrix.hpp`: Core matrix class and basic operations.
-  - `operations.hpp`: Square matrix operations (transpose, trace, determinant, inverse).
+  - `functions.hpp`: Square matrix operations (transpose, trace, determinant, inverse).
   - `io.hpp`: Input/output stream operators.
-- `examples/`: Example usage code (to be added).
-- `tests/`: Unit tests (to be added).
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request.
